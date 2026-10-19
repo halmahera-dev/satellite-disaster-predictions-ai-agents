@@ -1,0 +1,56 @@
+[
+  {
+    "image_id": "palu-tsunami_00000013_post_disaster",
+    "pre_path": "sample_image\\pre-disaster\\palu-tsunami_00000013_pre_disaster.png",
+    "post_path": "sample_image\\post-disaster\\palu-tsunami_00000013_post_disaster.png",
+    "prediction_path": "predictions\\palu-tsunami_00000013_post_disaster_prediction.png",
+    "damage_score": 0.28278868894995063,
+    "damage_percentage": "28.28%",
+    "damage_class": "No Damage"
+  },
+  {
+    "image_id": "palu-tsunami_00000032_post_disaster",
+    "pre_path": "sample_image\\pre-disaster\\palu-tsunami_00000032_pre_disaster.jpg",
+    "post_path": "sample_image\\post-disaster\\palu-tsunami_00000032_post_disaster.jpg",
+    "prediction_path": "predictions\\palu-tsunami_00000032_post_disaster_prediction.png",
+    "damage_score": 0.711175174340747,
+    "damage_percentage": "71.12%",
+    "damage_class": "Major Damage"
+  },
+  {
+    "image_id": "palu-tsunami_00000039_post_disaster",
+    "pre_path": "sample_image\\pre-disaster\\palu-tsunami_00000039_pre_disaster.png",
+    "post_path": "sample_image\\post-disaster\\palu-tsunami_00000039_post_disaster.png",
+    "prediction_path": "predictions\\palu-tsunami_00000039_post_disaster_prediction.png",
+    "damage_score": 0.5428432147152348,
+    "damage_percentage": "54.28%",
+    "damage_class": "Minor Damage"
+  },
+  {
+    "image_id": "palu-tsunami_00000060_post_disaster",
+    "pre_path": "sample_image\\pre-disaster\\palu-tsunami_00000060_pre_disaster.png",
+    "post_path": "sample_image\\post-disaster\\palu-tsunami_00000060_post_disaster.png",
+    "prediction_path": "predictions\\palu-tsunami_00000060_post_disaster_prediction.png",
+    "damage_score": 0.6406583531054841,
+    "damage_percentage": "64.07%",
+    "damage_class": "Major Damage"
+  },
+  {
+    "image_id": "palu-tsunami_00000130_post_disaster",
+    "pre_path": "sample_image\\pre-disaster\\palu-tsunami_00000130_pre_disaster.png",
+    "post_path": "sample_image\\post-disaster\\palu-tsunami_00000130_post_disaster.png",
+    "prediction_path": "predictions\\palu-tsunami_00000130_post_disaster_prediction.png",
+    "damage_score": 0.678994790740918,
+    "damage_percentage": "67.90%",
+    "damage_class": "Major Damage"
+  },
+  {
+    "image_id": "palu-tsunami_00000138_post_disaster",
+    "pre_path": "sample_image\\pre-disaster\\palu-tsunami_00000138_pre_disaster.png",
+    "post_path": "sample_image\\post-disaster\\palu-tsunami_00000138_post_disaster.png",
+    "prediction_path": "predictions\\palu-tsunami_00000138_post_disaster_prediction.png",
+    "damage_score": 0.4610547229791099,
+    "damage_percentage": "46.11%",
+    "damage_class": "Minor Damage"
+  }
+]
